@@ -7,8 +7,8 @@
       "type": "chrome",
       "request": "launch",
       "preLaunchTask": "npm: start",
-      "url": "http://localhost:4200/",
-      // "url": "https://xzibit8807.github.io/web-page/"
+      // "url": "http://localhost:4200/",
+      "url": "https://xzibit8807.github.io/web-page/",
     },
     {
       "name": "ng test",
