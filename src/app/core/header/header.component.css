@@ -3,6 +3,12 @@
     color: #ccdda2de;
     padding-bottom: 6px;
     padding-top: 2px;
+    width: 100vw;
+    /* Full viewport width */
+    height: 100vh;
+    /* Full viewport height */
+    overflow: hidden;
+    /* Prevents scrollbars */
 }
 
 .header .logo {
@@ -14,7 +20,7 @@
     padding-left: 30px;
     padding-right: 30px;
     padding-bottom: 3px;
-    padding-top: 10px;  
+    padding-top: 10px;
     box-shadow: 0 0 5px rgba(23, 16, 118, 0.2);
 }
 
@@ -27,7 +33,7 @@
     border-radius: 30px;
     padding: 20px 10px;
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    transition: all 0.3s ease-in-out;   
+    transition: all 0.3s ease-in-out;
     /* border-bottom: 3px solid red;
     border-top: 3px solid red;
     border-left: 3px solid red;
